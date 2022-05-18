@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 - 🌍 I'm based in Philadelphia
-- 🌱 I’m currently learning Next.js 
+- 🌱 I’m currently learning Next.js and getting a better understanding of Data Structures
 - 📫 You can reach me with at prepchrislee@gmail.com
 - 😄 Pronouns: He/Him
 
