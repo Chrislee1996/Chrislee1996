@@ -1,14 +1,12 @@
-### Hi there stranger 👋! I'm Christopher Lee and welcome to my profile!
+## Hi there stranger 👋! I'm Christopher Lee and welcome to my profile!
 
-
-Here are some ideas to get you started:
 - 🌍 I'm based in Philadelphia
 - 🌱 I’m currently learning Next.js and getting a better understanding of Data Structures
-- 📫 You can reach me with at prepchrislee@gmail.com
+- 📫 You can reach me with at prepchrislee@gmail.com 
 - 😄 Pronouns: He/Him
 
 
-### Skills
+## Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -24,6 +22,18 @@ Here are some ideas to get you started:
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 
 
- ### Social 
-  
+ ## Linkedin
+ ### Feel free to connect with me!
+
  <p align="left"><a href="https://www.linkedin.com/in/christopherlee30/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+ 
+ ## 📈 &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/jfw2855">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jfw2855&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jfw2855&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
