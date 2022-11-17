@@ -9,7 +9,6 @@ Since changing my career, I have been coding for almost over a year now and have
 * 🌍  I'm based in Philadelphia, PA
 * 🖥️  See my portfolio at [My Portfolio](http://christopherlee.app/)
 * ✉️  You can contact me at [prepchrislee@gmail.com](mailto:prepchrislee@gmail.com)
-* 🧠  I'm learning Data Structures and Algorithms
 
 ### Skills
 
